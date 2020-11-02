@@ -1,4 +1,4 @@
-# Algorithms in Python
+# Algorithms and Data Structures in Python
 
 This repository includes all the algorithms and data structures implemented in Python.
 
