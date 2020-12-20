@@ -22,3 +22,4 @@ This repository includes all the algorithms and data structures implemented in P
 > 4. Dictionary <br>
 
 [4. Other Data Structures](https://github.com/nikita1610/DSA_in_Python/tree/master/Other%20Data%20Structures)
+>1. Stacks <br>
