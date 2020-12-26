@@ -3,7 +3,7 @@
 This repository includes all the algorithms and data structures implemented in Python.
 
 [1. Sorting Technqiues](https://github.com/nikita1610/DSA_in_Python/tree/master/Sorting%20Techniques)
-> 1. Bubble Sort<br>
+> [1. Bubble Sort](https://github.com/nikita1610/DSA_in_Python/blob/master/Sorting%20Techniques/Bubble_Sort.py)<br>
 > 2. Insertion Sort<br>
 > 3. Selection Sort<br>
 > 4. Quick Sort<br>
