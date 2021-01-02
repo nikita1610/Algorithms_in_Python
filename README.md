@@ -19,7 +19,7 @@ This repository includes all the algorithms and data structures implemented in P
 >[ 1. Lists ](https://github.com/nikita1610/DSA_in_Python/blob/master/Basic%20Data%20Structures/Lists.ipynb)<br>
 >[ 2. Tuples](https://github.com/nikita1610/DSA_in_Python/blob/master/Basic%20Data%20Structures/Tuples.ipynb) <br>
 >[ 3. Sets](https://github.com/nikita1610/DSA_in_Python/blob/master/Basic%20Data%20Structures/Sets.ipynb) <br>
-> 4. Dictionary <br>
+>[ 4. Dictionary ](https://github.com/nikita1610/DSA_in_Python/blob/master/Basic%20Data%20Structures/Dictionary.ipynb)<br>
 
 [4. Other Data Structures](https://github.com/nikita1610/DSA_in_Python/tree/master/Other%20Data%20Structures)
 >1. Stacks <br>
