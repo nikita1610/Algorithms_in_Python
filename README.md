@@ -9,7 +9,7 @@ This repository includes all the algorithms and data structures implemented in P
 > [4. Quick Sort](https://github.com/nikita1610/DSA_in_Python/blob/master/Sorting%20Techniques/Quick_Sort.py)<br>
 > 5. Merge Sort
 
-[2.Searching Tchniques](https://github.com/nikita1610/DSA_in_Python/tree/master/Searching%20Techniques)
+[2. Searching Tchniques](https://github.com/nikita1610/DSA_in_Python/tree/master/Searching%20Techniques)
 > [1. Binary Search](https://github.com/nikita1610/DSA_in_Python/blob/master/Searching%20Techniques/Binary_Search.py) <br>
 > 2. Linear Search <br>
 > 3. Ternary Search <br>
