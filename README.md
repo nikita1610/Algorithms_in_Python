@@ -13,7 +13,7 @@ This repository includes all the algorithms and data structures implemented in P
 > [1. Binary Search](https://github.com/nikita1610/DSA_in_Python/blob/master/Searching%20Techniques/Binary_Search.py) <br>
 > [2. Linear Search](https://github.com/nikita1610/DSA_in_Python/blob/master/Searching%20Techniques/Linear_Search.py) <br>
 > [3. Ternary Search](https://github.com/nikita1610/DSA_in_Python/blob/master/Searching%20Techniques/Ternary_Search.py) <br>
-> 4. Interpolation Search <br>
+> [4. Interpolation Search](https://github.com/nikita1610/DSA_in_Python/blob/master/Searching%20Techniques/Interploation_Search.py) <br>
 
 [3. Basic Data Structures](https://github.com/nikita1610/DSA_in_Python/tree/master/Basic%20Data%20Structures)
 > 1. Lists <br>
