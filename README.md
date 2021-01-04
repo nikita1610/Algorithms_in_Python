@@ -7,7 +7,7 @@ This repository includes all the algorithms and data structures implemented in P
 > [2. Insertion Sort](https://github.com/nikita1610/DSA_in_Python/blob/master/Sorting%20Techniques/Insertion_Sort.py)<br>
 > [3. Selection Sort](https://github.com/nikita1610/DSA_in_Python/blob/master/Sorting%20Techniques/Selection_Sort.py)<br>
 > [4. Quick Sort](https://github.com/nikita1610/DSA_in_Python/blob/master/Sorting%20Techniques/Quick_Sort.py)<br>
-> 5. Merge Sort
+> [5. Merge Sort](https://github.com/nikita1610/DSA_in_Python/blob/master/Sorting%20Techniques/Merge_Sort.py)
 
 [2. Searching Tchniques](https://github.com/nikita1610/DSA_in_Python/tree/master/Searching%20Techniques)
 > [1. Binary Search](https://github.com/nikita1610/DSA_in_Python/blob/master/Searching%20Techniques/Binary_Search.py) <br>
