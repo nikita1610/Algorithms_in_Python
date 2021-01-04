@@ -1,6 +1,6 @@
 ## Algorithms and Data Structures in Python
 
-This repository includes all the algorithms and data structures implemented in Python.
+This repository includes all the important algorithms and data structures implemented in Python.
 
 [1. Sorting Technqiues](https://github.com/nikita1610/DSA_in_Python/tree/master/Sorting%20Techniques)
 > [1. Bubble Sort](https://github.com/nikita1610/DSA_in_Python/blob/master/Sorting%20Techniques/Bubble_Sort.py)<br>
