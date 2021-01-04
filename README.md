@@ -1,4 +1,4 @@
-# Algorithms and Data Structures in Python
+.# Algorithms and Data Structures in Python
 
 This repository includes all the algorithms and data structures implemented in Python.
 
@@ -22,4 +22,4 @@ This repository includes all the algorithms and data structures implemented in P
 >[ 4. Dictionary ](https://github.com/nikita1610/DSA_in_Python/blob/master/Basic%20Data%20Structures/Dictionary.ipynb)<br>
 
 [4. Other Data Structures](https://github.com/nikita1610/DSA_in_Python/tree/master/Other%20Data%20Structures)
->1. Stacks <br>
+>[1. Stacks](https://github.com/nikita1610/DSA_in_Python/blob/master/Other%20Data%20Structures/Stacks.ipynb)<br>
