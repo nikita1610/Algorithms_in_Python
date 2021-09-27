@@ -22,5 +22,5 @@ This repository includes all the important algorithms and data structures implem
 >[ 4. Dictionary ](https://github.com/nikita1610/DSA_in_Python/blob/master/Basic%20Data%20Structures/Dictionary.ipynb)<br>
 
 [4. Other Data Structures](https://github.com/nikita1610/DSA_in_Python/tree/master/Other%20Data%20Structures)
->[1. Stacks](https://github.com/nikita1610/DSA_in_Python/blob/master/Other%20Data%20Structures/Stacks.ipynb)<br>
+>[1. Stacks Using Lists](https://github.com/nikita1610/DSA_in_Python/blob/master/Other%20Data%20Structures/Stacks.ipynb)<br>
 >[2. Queues](https://github.com/nikita1610/DSA_in_Python/blob/master/Other%20Data%20Structures/Queues.ipynb)<br>
